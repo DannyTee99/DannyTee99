@@ -9,7 +9,4 @@
 </p>
 <br>
 
-[<img src="https://novatorem-7xsnlzp7a.vercel.app/api/spotify-playing" alt="Spotify Now Playing " width="350" />](https://open.spotify.com/user/1x83rc997t4q4qwhidia2xgls)
-
-
-[![Spotify](https://novatorem-git-master.pixiidust.vercel.app/api/github-now-playing)](https://open.spotify.com/user/1x83rc997t4q4qwhidia2xgls)
+<hr>
