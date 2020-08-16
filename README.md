@@ -10,5 +10,4 @@
 <br>
 
 
-[<img src="https://
-novatorem-git-master.pixiidust.vercel.app/api/spotify-playing" alt="Spotify Now Playing " width="350" />](https://open.spotify.com/user/1x83rc997t4q4qwhidia2xgls)
+
