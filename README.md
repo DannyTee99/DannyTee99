@@ -19,7 +19,10 @@
 <div align = "center">
   <h2> About moi<img src="https://user-images.githubusercontent.com/33988886/90336705-26440a00-dffb-11ea-956d-4352ad34415e.gif" width="70"></h2>
   </div>
+  ###### 
   <p>
-  💌 I am a developer, designer and aspiring digital artist
+ *💌 I am a developer, designer and aspiring digital artist
+ *💻 Security Analyst and Pentester
+ *🎀 WEEB DEGENERATE
   
   </p>
