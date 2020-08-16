@@ -13,5 +13,5 @@
 <br>
 
 <hr>
-![octocat](https://user-images.githubusercontent.com/33988886/90335751-d7937180-dff4-11ea-9d99-356740f1831e.png)
+
 
