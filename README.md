@@ -1,5 +1,8 @@
 
-
+<div align = "center">
+  <h1><h1 style="text-align:center; font-family:Seventies"> &nbsp;&nbsp; Danny Tee</h1></h1>
+ </div>
+<hr>
 <p align="center"> 
   <a href="https://www.behance.net/daniellegomesz"><img height="80" src="https://user-images.githubusercontent.com/33988886/90333149-f38d1800-dfe0-11ea-8f19-88d769907017.png"></a>&nbsp;
   <a href="https://www.instagram.com/danny._.tee/"><img height="80" src="https://user-images.githubusercontent.com/33988886/90333004-90e74c80-dfdf-11ea-8ea1-a445dfa521d3.png"></a>&nbsp;
@@ -10,3 +13,5 @@
 <br>
 
 <hr>
+![octocat](https://user-images.githubusercontent.com/33988886/90335751-d7937180-dff4-11ea-9d99-356740f1831e.png)
+
