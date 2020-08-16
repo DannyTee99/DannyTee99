@@ -27,9 +27,9 @@
   
   </p>
   <div align = "center">
-  <h2> Techonologies<img src="https://user-images.githubusercontent.com/33988886/90336705-26440a00-dffb-11ea-956d-4352ad34415e.gif" width="70"></h2>
+  <h2> Technologies<img src="https://user-images.githubusercontent.com/33988886/90338330-8a200000-e006-11ea-98a3-55c1e4d94901.gif" width="100"></h2>
   </div>
  
   <div align = "center">
-  <h2> About moi<img src="https://user-images.githubusercontent.com/33988886/90336705-26440a00-dffb-11ea-956d-4352ad34415e.gif" width="70"></h2>
+  <h2> Skills <img src="https://user-images.githubusercontent.com/33988886/90338354-ba679e80-e006-11ea-8d7d-80a92020181c.gif" width="60"></h2>
   </div>
