@@ -12,17 +12,15 @@
   <a href="https://twitter.com/ilaucandy"><img height="80" src="https://user-images.githubusercontent.com/33988886/90333070-3dc1c980-dfe0-11ea-848e-6a5a0f78b14f.png"></a>&nbsp;
   <a href="https://www.linkedin.com/in/danielle-gomesz-b4a6b1153/"><img height="80" src="https://user-images.githubusercontent.com/33988886/90332970-2d5d1f00-dfdf-11ea-9a7c-bbd926906cc3.png"></a>
 </p>
-<hr>
 <div align = "center">
 <img src="https://user-images.githubusercontent.com/33988886/90336762-92267280-dffb-11ea-9501-18fb223a6131.gif" width="800"></div>
 
 <div align = "center">
   <h2> About moi<img src="https://user-images.githubusercontent.com/33988886/90336705-26440a00-dffb-11ea-956d-4352ad34415e.gif" width="70"></h2>
   </div>
-  ###### 
   <p>
- *💌 I am a developer, designer and aspiring digital artist
- *💻 Security Analyst and Pentester
- *🎀 WEEB DEGENERATE
+💌 I am a developer, designer and aspiring digital artist
+💻 Security Analyst and Pentester
+🎀 WEEB DEGENERATE
   
   </p>
