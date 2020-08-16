@@ -26,3 +26,10 @@
     💟 Currently working on web design and blog design, and honing my skills in computer security.<br> 🧭 Hobbies include gaming, watching anime and drawing
   
   </p>
+  <div align = "center">
+  <h2> Techonologies<img src="https://user-images.githubusercontent.com/33988886/90336705-26440a00-dffb-11ea-956d-4352ad34415e.gif" width="70"></h2>
+  </div>
+ ![](https://img.shields.io/badge/Unreal_Engine-4?style=for-the-badge&logo=Unreal-Engine&logoColor=white&color=000000) ![](https://img.shields.io/badge/WordPress-informational?style=for-the-badge&logo=wordpress&logoColor=white&color=ADD8E6)   ![](https://img.shields.io/badge/Visual-Studio-informational?style=for-the-badge&logo=visual-studio&logoColor=white&color=800080) ![](https://img.shields.io/badge/VS-Code-informational?style=for-the-badge&logo=visual-studio&logoColor=white&color=800080)  ![](https://img.shields.io/badge/Android-Studio-informational?style=for-the-badge&logo=android&logoColor=white&color=2bbc8a)  ![](https://img.shields.io/badge/Adobe-Photoshop-informational?style=for-the-badge&logo=adobe&logoColor=white&color=FF0000) ![](https://img.shields.io/badge/Adobe-Illustrator-informational?style=for-the-badge&logo=adobe&logoColor=white&color=FF4500) ![](https://img.shields.io/badge/Adobe-PremierePro-informational?style=for-the-badge&logo=adobe&logoColor=white&color=800080) ![](https://img.shields.io/badge/Sony-Vegas-informational?style=for-the-badge&logo=moo&logoColor=white&color=0000A0) ![](https://img.shields.io/badge/Apache-NetBeans-IDE?style=for-the-badge&logo=Apache-NetBeans-IDE&logoColor=white&color=C0C0C0)
+  <div align = "center">
+  <h2> About moi<img src="https://user-images.githubusercontent.com/33988886/90336705-26440a00-dffb-11ea-956d-4352ad34415e.gif" width="70"></h2>
+  </div>
