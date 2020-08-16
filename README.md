@@ -14,13 +14,15 @@
 </p>
 <div align = "center">
 <img src="https://user-images.githubusercontent.com/33988886/90336762-92267280-dffb-11ea-9501-18fb223a6131.gif" width="800"></div>
-
+ <hr>
 <div align = "center">
   <h2> About moi<img src="https://user-images.githubusercontent.com/33988886/90336705-26440a00-dffb-11ea-956d-4352ad34415e.gif" width="70"></h2>
   </div>
+
   <p>
-💌 I am a developer, designer and aspiring digital artist
-💻 Security Analyst and Pentester
-🎀 WEEB DEGENERATE
+    💌 I am a developer, designer and aspiring digital artist
+    💻 Security Analyst and Pentester
+    🎀 WEEB DEGENERATE<br><br>
+    💟 Currently working on web design and blog design, and honing my skills in computer security.<br> 🧭 Hobbies include gaming, watching anime and drawing
   
   </p>
